@@ -30,9 +30,6 @@ function executar() {
         }, 700);
     }
 }
-
-
-
 loginBtn.addEventListener('click', function() {
     executar();
 })
